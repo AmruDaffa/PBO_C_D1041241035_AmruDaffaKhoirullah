@@ -10,7 +10,7 @@ public class LatihPerhitungan {
         int Saldo_Setelah_Setor = Saldo_Awal + Setoran;
         //Deklarsi Saldo Akhir dengan Mengurangkan Saldo Setelah Setor dengan Penarikan
         int saldo_akhir = Saldo_Setelah_Setor - Penarikan;
-        //Output 
+        //Menampilkan Transaksi Bank
         System.out.println("=== SIMULASI TRANSAKSI BANK ===");
         System.out.println("Saldo Awal              : " + Saldo_Awal);
         System.out.println("Setoran                 : " + Setoran);
