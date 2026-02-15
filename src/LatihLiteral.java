@@ -1,21 +1,22 @@
 public class LatihLiteral {
     public static void main(String[] args) {
-        //deklarasi byte
+        //Deklarasi byte
         byte tipe_byte = 127;
-        //deklarsi short
+        //Deklarsi short
         short tipe_short = 2026;
-        //deklarasi short
+        //Deklarasi short
         int tipe_int = 275000000;
-        //deklarasi int
+        //Deklarasi int
         long tipe_long = 8000000000L;
-        //deklarsi float
+        //Deklarsi float
         float tipe_float = 3.14F;
-        //deklarasi double
+        //Deklarasi double
         double tipe_double = 2.718281828;
-        //deklarasi char
+        //Deklarasi char
         char tipe_char = 'A';
-        //deklarasi boolean
+        //Deklarasi boolean
         boolean tipe_boolean = true;
+        //Menampilkan Demonstrasi Tipe Data
         System.out.println("=== DEMONSTRASI LITERAL TIPE DATA ===");
         System.out.println("Tipe Byte       : " + tipe_byte);
         System.out.println("Tipe Short      : " + tipe_short);     
