@@ -1,7 +1,6 @@
 public class LatihanProduk {
     //Deklarasi Konstanta PAJAK
     public static final double PAJAK = 0.11;
-
     public static void main(String[] args) {
         //Deklrasi Variabel
         String productName = "Laptop Asus Gaming TUF";
