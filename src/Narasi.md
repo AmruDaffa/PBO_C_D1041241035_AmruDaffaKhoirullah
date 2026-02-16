@@ -16,3 +16,4 @@ Pada LatihanProduk diajarkan cara mendeskripsikan suatu produk contohnya laptop 
 Pada LatihDataMahasiswa diajarkan cara menggunakan berbagai macam tipe data untuk mendeskripsikan Data Mahasiswa 
 Pada LatihanLiteral diajarkan macam2 tipe data dan batasannya
 pada LatihPerhitungan diajarkan cara melakukan Compound Assignment seperti += dan -= untuk pengurangan dan penjumlahan
+Pada p043IncrementDecrement diajarkan cara melakukan Increment Decrement serta compound Assignment
