@@ -1,6 +1,6 @@
 public class LatihDataMahasiswa {
     public static void main(String[] args) {
-        //Deklarasi NIM dengan String 
+        //Deklarasi NIM dengan long 
         long nimMahasiswa = 1041241035;
         //Deklarasi Nama dengan String 
         String namaMahasiswa = "Amru Daffa Khoirulllah";
@@ -14,7 +14,7 @@ public class LatihDataMahasiswa {
         int sksMahasiswa = 66;
         // Menampilkan Data Mahasiswa
         System.out.println("=== DATA MAHASISWA ===");
-        System.out.println("NIM             : " + nimMahasiswa);
+        System.out.println("NIM             : D" + nimMahasiswa);
         System.out.println("Nama            : " + namaMahasiswa);
         System.out.println("Kelas           : " + kelasMahasiswa);
         System.out.println("Status Aktif    : " + isActive);
