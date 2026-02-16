@@ -4,16 +4,17 @@
 Contoh operator aritmatika dalam java adalah : 
 Penjumlahan (+), Pengurangan (-), Perkalian (*), Pembagian (/), Sisa Bagi / Modulus (%). 
 Operator ini bekerja dengan memproses nilai dari variabel dan menghasilkan hasil sesuai operasi matematika.
-4. pada p022WorkingVariable disitu kita diajarkan perubahan suatu nilai variabel 
-pada p023PrimitiveData diajarkan tipe data primitive yang ada pada java seperti int long 
-float double char boolean
-pada p041NamingConvention diajarkan cara penamaan variabel dan class yang benar 
-seperti CamelCase dan penamaan Boolean serta penamaan class
-pada p042OperatorAritmatika diajarkan Operasi Aritmatika dalam java seperti pertambahan, pengurangan, perkalian, pembagian, sisa bagi/modulus
-Pada LatihanCounter diajarkan increment dan decrement serta Coumpund Assignment 
-Pada LatihanKalkulator diajarkan aritmatika Dasar seperti p042OperatorAritmatika serta penambahan perkalian decimal
-Pada LatihanProduk diajarkan cara mendeskripsikan suatu produk contohnya laptop pada program
-Pada LatihDataMahasiswa diajarkan cara menggunakan berbagai macam tipe data untuk mendeskripsikan Data Mahasiswa 
-Pada LatihanLiteral diajarkan macam2 tipe data dan batasannya
-pada LatihPerhitungan diajarkan cara melakukan Compound Assignment seperti += dan -= untuk pengurangan dan penjumlahan
-Pada p043IncrementDecrement diajarkan cara melakukan Increment Decrement serta compound Assignment
+4. yang saya pahami dari penerapan
+    1. p022WorkingVariable disitu kita diajarkan perubahan suatu nilai variabel 
+    2. p023PrimitiveData diajarkan tipe data primitive yang ada pada java seperti int long 
+    float double char boolean
+    3. p041NamingConvention diajarkan cara penamaan variabel dan class yang benar 
+    seperti CamelCase dan penamaan Boolean serta penamaan class
+    4. p042OperatorAritmatika diajarkan Operasi Aritmatika dalam java seperti pertambahan, pengurangan, perkalian, pembagian, sisa bagi/modulus
+    5. LatihanCounter diajarkan increment dan decrement serta Coumpund Assignment 
+    6. LatihanKalkulator diajarkan aritmatika Dasar seperti p042OperatorAritmatika serta penambahan perkalian decimal
+    7. LatihanProduk diajarkan cara mendeskripsikan suatu produk contohnya laptop pada program
+    8. LatihDataMahasiswa diajarkan cara menggunakan berbagai macam tipe data untuk mendeskripsikan Data Mahasiswa 
+    9. LatihanLiteral diajarkan macam2 tipe data dan batasannya
+    10. LatihPerhitungan diajarkan cara melakukan Compound Assignment seperti += dan -= untuk pengurangan dan penjumlahan
+    11. p043IncrementDecrement diajarkan cara melakukan Increment Decrement serta compound Assignment
