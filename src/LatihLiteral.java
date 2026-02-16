@@ -21,7 +21,7 @@ public class LatihLiteral {
         System.out.println("Tipe Byte       : " + tipeByte);
         System.out.println("Tipe Short      : " + tipeShort);     
         System.out.println("Tipe int        : " + tipeInt);
-        System.out.println("Tipe long       : "+ tipeLong) ;
+        System.out.println("Tipe long       : " + tipeLong) ;
         System.out.println("Tipe float      : " + tipeFloat);
         System.out.println("Tipe double     : " + tipeDouble);
         System.out.println("Tipe Char       : " + tipeChar);
