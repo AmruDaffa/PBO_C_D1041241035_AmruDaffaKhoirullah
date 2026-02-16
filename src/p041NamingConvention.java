@@ -6,7 +6,7 @@ public class p041NamingConvention {
     public static void main(String[] args) {
         //contoh variabel camelcase 
         int studentAge = 20;
-        String studentName = "Amru Daffa Khoirullah";
+        String studentName = "Budi";
         boolean isStudentActive = true;
         //Keluarkan variabel yang sudah dibuat
         System.out.println("Nama         : " + studentName);

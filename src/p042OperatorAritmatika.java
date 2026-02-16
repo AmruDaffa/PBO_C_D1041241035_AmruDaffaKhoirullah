@@ -8,9 +8,9 @@ public class p042OperatorAritmatika {
         System.out.println("b = " + b);
         //Beri Spasi
         System.out.println();
-        //Tampilkan pertambahan A dan B
+        //Tampilkan penambahan A dan B
         System.out.println("a + b = " + (a + b));
-        //Tampilkan perkurangan A dan B
+        //Tampilkan pengurangan A dan B
         System.out.println("a - b = " + (a - b));
         //Tampilkan Perkalian A dan B
         System.out.println("a * b = " + (a * b));
