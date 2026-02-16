@@ -1,0 +1,1 @@
+1.Naming Convention adalah cara kita menamakan sebuah variabel agar variabel itu gampang dicari dan mengurangi kesalahan interpretasi dengan menggunakan nama sesuai fungsi variabel tersebut dengan aturan-aturan yang berlaku seperti dimulai dengan huruf kecil

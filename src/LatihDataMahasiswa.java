@@ -1,24 +1,24 @@
 public class LatihDataMahasiswa {
     public static void main(String[] args) {
         //Deklarasi NIM dengan String 
-        String NIM = "D1041241035";
+        long nimMahasiswa = 1041241035;
         //Deklarasi Nama dengan String 
-        String Nama = "Amru Daffa Khoirulllah";
+        String namaMahasiswa = "Amru Daffa Khoirulllah";
         //Deklarasi Nama dengan String 
-        char Kelas = 'A';
+        char kelasMahasiswa = 'A';
         //Deklarasi Kelas dengan Char 
-        boolean Status = true;
+        boolean isActive = true;
         //Deklarasi IPK dengan Double 
-        double IPK = 3.94;
+        double ipkMahasiswa = 3.94;
         //Deklarasi SKS dengan int 
-        int SKS = 66;
+        int sksMahasiswa = 66;
         // Menampilkan Data Mahasiswa
         System.out.println("=== DATA MAHASISWA ===");
-        System.out.println("NIM             : " + NIM);
-        System.out.println("Nama            : " + Nama);
-        System.out.println("Kelas           : " + Kelas);
-        System.out.println("Status Aktif    : " + Status);
-        System.out.println("IPK Semester    : " + IPK );
-        System.out.println("Total SKS       : " + SKS );
+        System.out.println("NIM             : " + nimMahasiswa);
+        System.out.println("Nama            : " + namaMahasiswa);
+        System.out.println("Kelas           : " + kelasMahasiswa);
+        System.out.println("Status Aktif    : " + isActive);
+        System.out.println("IPK Semester    : " + ipkMahasiswa );
+        System.out.println("Total SKS       : " + sksMahasiswa );
     }
 }

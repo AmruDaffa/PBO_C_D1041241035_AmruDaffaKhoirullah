@@ -6,7 +6,7 @@ public class LatihanProduk {
         String productName = "Laptop Asus Gaming TUF";
         int productPrice = 9400000;
         int productStock = 10;
-        boolean isAvailable = true;
+        boolean isStockAvailable = true;
         //Kalikan Harga produk dengan jumlah stok
         int stockPrice = productPrice * productStock;
         //Kalikan harga stok produk
@@ -16,7 +16,7 @@ public class LatihanProduk {
         System.out.println("Nama Produk         : " + productName);
         System.out.println("Harga Satuan        : Rp " + productPrice);
         System.out.println("Jumlah Stok         : " + productStock);
-        System.out.println("Status Tersedia     : " + isAvailable);
+        System.out.println("Status Tersedia     : " + isStockAvailable);
         System.out.println("---");
         System.out.println("Total Nilai Stok    : Rp " + stockPrice);
         /*

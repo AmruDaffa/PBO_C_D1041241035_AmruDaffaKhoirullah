@@ -11,11 +11,11 @@ public class p023PrimitiveData {
         // Tipe data logika
         boolean lulus = true;
         // Menampilkan nilai semua variabel
-        System.out.println("Umur : " + umur);
-        System.out.println("Populasi : " + populasi);
-        System.out.println("Tinggi Badan : " + tinggi);
-        System.out.println("IPK : " + ipk);
-        System.out.println("Nilai Huruf : " + nilaiHuruf);
-        System.out.println("Status Lulus : " + lulus);
+        System.out.println("Umur            : " + umur);
+        System.out.println("Populasi        : " + populasi);
+        System.out.println("Tinggi Badan    : " + tinggi);
+        System.out.println("IPK             : " + ipk);
+        System.out.println("Nilai Huruf     : " + nilaiHuruf);
+        System.out.println("Status Lulus    : " + lulus);
     }
 }

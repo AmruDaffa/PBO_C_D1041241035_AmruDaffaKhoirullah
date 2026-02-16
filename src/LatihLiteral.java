@@ -1,30 +1,30 @@
 public class LatihLiteral {
     public static void main(String[] args) {
         //Deklarasi byte
-        byte tipe_byte = 127;
+        byte tipeByte = 127;
         //Deklarsi short
-        short tipe_short = 2026;
+        short tipeShort = 2026;
         //Deklarasi short
-        int tipe_int = 275000000;
+        int tipeInt = 275000000;
         //Deklarasi int
-        long tipe_long = 8000000000L;
+        long tipeLong = 8000000000L;
         //Deklarsi float
-        float tipe_float = 3.14F;
+        float tipeFloat = 3.14F;
         //Deklarasi double
-        double tipe_double = 2.718281828;
+        double tipeDouble = 2.718281828;
         //Deklarasi char
-        char tipe_char = 'A';
+        char tipeChar = 'A';
         //Deklarasi boolean
-        boolean tipe_boolean = true;
+        boolean isBoolean = true;
         //Menampilkan Demonstrasi Tipe Data
         System.out.println("=== DEMONSTRASI LITERAL TIPE DATA ===");
-        System.out.println("Tipe Byte       : " + tipe_byte);
-        System.out.println("Tipe Short      : " + tipe_short);     
-        System.out.println("Tipe int        : " + tipe_int);
-        System.out.println("Tipe long       : "+ tipe_long) ;
-        System.out.println("Tipe float      : " + tipe_float);
-        System.out.println("Tipe double     : " + tipe_double);
-        System.out.println("Tipe Char       : " + tipe_char);
-        System.out.println("Tipe boolean    : " + tipe_boolean);      
+        System.out.println("Tipe Byte       : " + tipeByte);
+        System.out.println("Tipe Short      : " + tipeShort);     
+        System.out.println("Tipe int        : " + tipeInt);
+        System.out.println("Tipe long       : "+ tipeLong) ;
+        System.out.println("Tipe float      : " + tipeFloat);
+        System.out.println("Tipe double     : " + tipeDouble);
+        System.out.println("Tipe Char       : " + tipeChar);
+        System.out.println("Tipe boolean    : " + isBoolean);      
     }
 }
