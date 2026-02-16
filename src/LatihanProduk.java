@@ -10,7 +10,7 @@ public class LatihanProduk {
         //Kalikan Harga produk dengan jumlah stok
         int stockPrice = productPrice * productStock;
         //Kalikan harga stok produk
-        double priceTax = stockPrice * PAJAK;
+        double stockPriceTax = stockPrice * PAJAK;
         //Tampilkan Informasi Produk
         System.out.println("=== INFORMASI PRODUK ===");
         System.out.println("Nama Produk         : " + productName);
@@ -24,7 +24,7 @@ public class LatihanProduk {
         dalam bentuk bilangan bulat (tanpa desimal) 
         agar tidak tampil dalam notasi ilmiah (E) dan tanpa tanda koma/titik
         */
-        System.out.println("Pajak (11%)         : Rp " + String.format("%.0f", priceTax));
+        System.out.println("Pajak (11%)         : Rp " + String.format("%.0f", stockPriceTax));
 
     }
 }
