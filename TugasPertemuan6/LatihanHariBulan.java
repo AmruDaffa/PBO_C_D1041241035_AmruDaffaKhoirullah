@@ -70,6 +70,7 @@ public class LatihanHariBulan {
             case 8:
             case 10:
             case 12:
+                //Intentional fall through - bulan dengan 31 hari 
                 day = 31;
                 System.out.println("Jumlah Hari : " + day);
                 break;
@@ -77,10 +78,12 @@ public class LatihanHariBulan {
             case 6:
             case 9:
             case 11:
+                //Intentional fall through - bulan dengan 30 hari
                 day = 30;
                 System.out.println("Jumlah Hari : " + day);
                 break;
             case 2:
+                //Intentional fall through - bulan dengan 28 hari
                 day = 28;
                 System.out.println("Jumlah Hari : " + day);
                 break;
