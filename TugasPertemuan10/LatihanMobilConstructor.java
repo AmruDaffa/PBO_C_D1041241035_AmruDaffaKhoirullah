@@ -2,9 +2,9 @@ package TugasPertemuan10;
 //buat Class Mobil
 class Mobil {
     //buat Atribut
-    String merk = "Belum Diisi";
-    String warna = "Belum Diisi";
-    int tahun = 0; 
+    String merk;
+    String warna;
+    int tahun; 
     //Membuat Method TampilkanSpesifikasi
     public void tampilkanSpesifikasi(){
         System.out.println("=== SPESIFIKASI MOBIL ===");
@@ -15,11 +15,15 @@ class Mobil {
     }
     //Membuat Constructor tanpa Parameter
     public Mobil(){
-        
+        this.merk = "Belum Diisi";
+        this.warna = "Belum Diisi";
+        this.tahun = 0;
     }
     //Membuat Constructor dengan 1 Parameter
     public Mobil(String merk){
         this.merk = merk;
+        this.warna = "Belum Diisi";
+        this.tahun = 0;
     }
     //Membuat Constructor dengan 3 Parameter
     public Mobil(String merk, String warna, int tahun){
@@ -40,7 +44,7 @@ public class LatihanMobilConstructor {
         mobil1.tampilkanSpesifikasi();
         //Tampilkan mobil2
         mobil2.tampilkanSpesifikasi();
-        //Tampilkan mobil3
+        //Tampilkan mobil3  
         mobil3.tampilkanSpesifikasi();
     }
 }

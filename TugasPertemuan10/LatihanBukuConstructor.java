@@ -2,9 +2,9 @@ package TugasPertemuan10;
 //buat Class buku
 class Buku {
     //buat Atribut
-    String judul = "Belum Diisi";
-    String pengarang = "Belum Diisi";
-    int harga = 0;
+    String judul;
+    String pengarang;
+    int harga;
     //Membuat Method TampilkanInfo
     public void tampilkanInfo(){
         System.out.println("=== INFORMASI BUKU ===");
@@ -15,7 +15,9 @@ class Buku {
     }
     //Membuat Constructor tanpa parameter
     public Buku(){
-        
+        judul = "Belum Diisi";
+        pengarang = "Belum Diisi";
+        harga = 0;
     }
     //Membuat Constructor dengan parameter
     public Buku(String judul, String pengarang, int harga){
